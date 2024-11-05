@@ -1,0 +1,8 @@
+file_format: "1"
+id: avagrace
+name: Ava Grace
+type: shield
+url: https://github.com/miketronic/avagrace
+requires: [pro_micro]
+features:
+  - keys
